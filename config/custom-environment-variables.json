@@ -1,0 +1,6 @@
+{
+  "foo": {
+    "__name": "FOO",
+    "__format": "json"
+  }
+}

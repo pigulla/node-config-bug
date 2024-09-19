@@ -1,0 +1,16 @@
+{
+  "name": "node-config-bug",
+  "version": "0.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "FOO=null node index.js"
+  },
+  "keywords": [],
+  "author": "Raphael Pigulla",
+  "license": "UNLICENSED",
+  "description": "Minimal repository to reproduce node-config issue #",
+  "dependencies": {
+    "config": "3.3.12"
+  }
+}
